@@ -104,3 +104,7 @@ We welcome contributions from the community. Please read our contributing guidel
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+###CONTRACT
+
+0x58f1f6ad7f07c6243285257a02381418e0898B8f
+https://1drv.ms/i/c/111bc9adb77441db/ER1AholgqchMj8xSCWPY4vMBLZC9uLFvBhNMx2gE0Cd1Xg?e=nAbWZy
